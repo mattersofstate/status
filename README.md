@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-<iframe src="https://public.tableau.com/views/order_management/Order_Table?:showVizHome=no&:embed=true"></iframe>
+<iframe src="https://public.tableau.com/views/order_management/ColourbyChannel?:showVizHome=no&amp;:embed=true" width="90%" height="800px"></iframe>
+
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 
